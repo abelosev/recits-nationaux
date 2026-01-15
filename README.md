@@ -1,4 +1,4 @@
-# Analyse des récits nationaux sur Staline dans les manuels d'histoire russes
+# Analyse des récits nationaux autour de la figure de Staline dans les manuels d'histoire russes
 
 Analyse diachronique de 22 manuels (1947–2023) combinant méthodes de TAL (embeddings SBERT, clustering HDBSCAN).
 
