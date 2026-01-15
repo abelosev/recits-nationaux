@@ -1,0 +1,37 @@
+{
+  "total_segments": 31968,
+  "total_words": 1671835,
+  "missing_metadata_doc_ids": [],
+  "by_period": {
+    "1947-1953": {
+      "num_segments": 2976,
+      "total_chars": 1185794,
+      "total_words": 155922,
+      "avg_segment_words": 52.4
+    },
+    "1954–1984": {
+      "num_segments": 6442,
+      "total_chars": 2591003,
+      "total_words": 337188,
+      "avg_segment_words": 52.3
+    },
+    "1985-1999": {
+      "num_segments": 3679,
+      "total_chars": 1485026,
+      "total_words": 200884,
+      "avg_segment_words": 54.6
+    },
+    "2000-2012": {
+      "num_segments": 10398,
+      "total_chars": 4689985,
+      "total_words": 640286,
+      "avg_segment_words": 61.6
+    },
+    "2012-2023": {
+      "num_segments": 8473,
+      "total_chars": 2515678,
+      "total_words": 337555,
+      "avg_segment_words": 39.8
+    }
+  }
+}

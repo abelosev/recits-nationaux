@@ -1,0 +1,31 @@
+{
+  "input_file": "../pretraitement_out/04_dedup/segments_final.json",
+  "output_dir": "../embeddings_out",
+  "total_segments": 3528,
+  "embedding_dim": 1024,
+  "embeddings_shape": [
+    3528,
+    1024
+  ],
+  "normalized": true,
+  "model": {
+    "model_name": "ai-forever/sbert_large_nlu_ru",
+    "embedding_dim": 1024,
+    "device": "mps",
+    "device_info": "Apple Silicon (MPS)",
+    "load_time_seconds": 90.19
+  },
+  "encoding": {
+    "encode_time_seconds": 301.81,
+    "segments_per_second": 11.69,
+    "normalized": true
+  },
+  "by_period": {
+    "1947-1953": 878,
+    "1954–1984": 205,
+    "1985-1999": 341,
+    "2000-2012": 1467,
+    "2013-2023": 637
+  },
+  "total_time_seconds": 416.2
+}

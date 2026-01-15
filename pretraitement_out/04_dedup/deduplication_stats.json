@@ -1,0 +1,40 @@
+{
+  "by_period": {
+    "1947-1953": {
+      "original": 880,
+      "after_dedup": 878,
+      "exact_removed": 1,
+      "fuzzy_removed": 1
+    },
+    "1954–1984": {
+      "original": 322,
+      "after_dedup": 205,
+      "exact_removed": 117,
+      "fuzzy_removed": 0
+    },
+    "1985-1999": {
+      "original": 341,
+      "after_dedup": 341,
+      "exact_removed": 0,
+      "fuzzy_removed": 0
+    },
+    "2000-2012": {
+      "original": 1467,
+      "after_dedup": 1467,
+      "exact_removed": 0,
+      "fuzzy_removed": 0
+    },
+    "2012-2023": {
+      "original": 637,
+      "after_dedup": 637,
+      "exact_removed": 0,
+      "fuzzy_removed": 0
+    }
+  },
+  "exact_removed": 118,
+  "fuzzy_removed": 1,
+  "total_removed": 119,
+  "input_count": 3647,
+  "output_count": 3528,
+  "dedup_rate": 3.26
+}
